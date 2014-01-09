@@ -1,0 +1,27 @@
+Verein zur Förderung Freier Software sammelt über 1300 Euro zur Rettung eines Buchprojekts
+
+Der Aachener sidux e.V. hat das Buch “Serendipity-Individuelle Weblogs für Einsteiger und Profis” durch eine einmalige Spendensammlung „gerettet“. Bei der Aktion kamen mehr als 1300 Euro zusammen. Der e. V. hat außerdem die Kosten für 100 Bücher übernommen.
+
+Das im Mai 2008 erschienene Buch des Autors Garvin Hicking bietet eine umfassende Dokumentation des Weblogsystems Serendipity. Mit der Software lassen sich nachrichtenorientierte Webseiten einfach aufsetzen und zugänglich machen. Beschrieben werden die Kernfunktionalität als auch diverse Erweiterungen des flexiblen Systems.
+
+Da das Buch inzwischen etwas in „die Jahre gekommen ist“, hat der Open Source Press Verlag den Vertrieb eingestellt. Alle verbliebenen Exemplare sollten vernichtet werden, als der sidux e. V. zusammen mit dem ehemaligen Vorstand von Ubuntu Deutschland, Dirk Deimeke, in Aktion trat. In einer groß angelegten Spendenaktion konnte der Verein zum Glück alle Bücher vor der Schreddermaschine retten. Jetzt können die Exemplare unter freier Lizenz in buch- sowie in elektronischer Form veröffentlicht werden. Serendiptiy-Fans können gegen Erstattung der Versandkosten das Buch kostenlos vom sidux e. V. anfordern. Alternativ gibt es die Bücher am sidux-Stand auf diversen Fachmessen (siehe http://sidux-ev.org/).
+
+Der sidux e.V. engagiert sich seit fünf Jahren aktiv an der Förderung freier Software. Dabei handelt es sich um Software, die für jeden Zweck ausgeführt, untersucht, modifiziert und in ursprünglicher oder modifizierter Form weiterverbreitet werden darf. Der Verein wurde 2007 zur Unterstützung der Linuxdistribution sidux gegründet, hat aber inzwischen seine Aktivitäten auf andere Projekte ausgeweitet. Neben Aktivitäten auf verschiedenen Fachmessen und Unterstützung verschiedener Linux-Distributionen tritt der sidux e. V. auch als Veranstalter des jährlich statt findenden Aachen-Treffs in den Vordergrund. Bei diesem Treffen erläutern verschiedene Vortragende Aspekte aus dem weiten Feld Freier Software, darunter z.B. Karsten Gerloff, Präsident der Free Software Foundation Europe oder Mechtild Stehmann, Chef- Qualitätsmanagerin bei OpenOffice.
+
+Pressekontakt:
+Magnus Müller
+E-Mail: presse@sidux-ev.org
+
+Weitere Informationen:
+Vorstand: Karlheinz Heidemeyer (Vorsitzender), Magnus Müller (Stellv. Vorsitzender), Walter Güldenberg (Schatzmeister)
+Registergericht: Charlottenburg VR 27013 B
+Geschäftsstelle: sidux e.V.
+Kapuzinergraben 16
+52062 Aachen
+Tel.: +49 241 4097390
+Fax: +49 241 402197
+E-Mail: buchhaltung@sidux-ev.de
+
+http://sidux-ev.org
+
+[Pressemeldung 2012/001]
