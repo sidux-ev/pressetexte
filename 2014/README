@@ -1,0 +1,5 @@
+howto odt2txt
+
+apt-get install odt2txt
+
+odt2txt file.odt > file.txt
