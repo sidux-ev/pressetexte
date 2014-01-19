@@ -1,0 +1,41 @@
+Gemeinsame Pressemitteilung 01/2014
+20. Januar 2014
+
+sidux e.V. und PrOOo-Box-Projekt vereinbaren Kooperation
+
+Der sidux e.V. stellt dem PrOOo-Box-Projekt künftig eine technische Infrastruktur zur Verfügung und unterstützt das Projekt bei der Vereinnahmung und Verwaltung der Spendengelder. Die Partner werden darüber hinaus bei Messeauftritten sowie der Öffentlichkeitsarbeit kooperieren.
+Karlheinz Heidemeyer, Vorsitzender des sidux e.V., erklärte anlässlich der Kooperationsvereinbarung: Wir freuen uns, mit unseren Partnern die Verbreitung einer weltweit bekannten und eingesetzten Open Source Software zu fördern. Apache OpenOffice™ ist die führende Office Suite im Open Source Bereich und das PrOOo-Box-Projekt wird seinen Teil zur weiteren Verbreitung dieser ausgereiften und stabilen Software leisten.
+Der Vorstand des sidux e.V. hatte sich Ende 2013 mit den Verantwortlichen des PrOOo-Box-Projektes in Hamburg getroffen. Ziel war es, die Möglichkeiten einer künftigen Kooperation zur besseren Verbreitung des PrOOo-Box-Projektes zu erörtern. Im Mittelpunkt der Überlegungen stand der Wunsch der Partner durch die Bündelung ihrer Aktivitäten und Ressourcen die Verbreitung Freier und Open Source Software effizienter voranzutreiben sowie Aktivitäten abzustimmen, die eine weitere Verbreitung der Software Apache OpenOffice™ ermöglichen.
+Detlef Nannen, Sprecher des PrOOo-Box-Projektes, begrüßt die Kooperation mit dem sidux e.V.: Der Verein bietet dem PrOOo-Box-Projekt eine hervorragende Basis für die Verbreitung des Softwarepakets rund um die Apache OpenOffice™ Suite. Das Projekt wird von Ehrenamtlichen betrieben und ist auf die Unterstützung durch die Open Source Community angewiesen. Wir appellieren daher an die Spendenbereitschaft der Open Source Gemeinschaft zur Finanzierung unserer Arbeit. Spenden können direkt an den sidux e.V. gerichtet werden, der auch Spendenbescheinigungen ausstellt.
+Jörg Schmidt, Committer im OpenOffice Projekt und langjähriger Unterstützer der PrOOo-Box, ergänzt: Ich freue mich besonders, in Zeiten, in denen die PrOOo-Box nicht nur zum Verbreiten der Software OpenOffice beiträgt, sondern auch maßgeblichen Anteil am Erstarken der lokalen OpenOffice Community hat, einen Partner wie den sidux e.V. an unserer Seite zu wissen, der nicht nur hilft unsere technische und finanzielle Basis zu stärken, sondern dessen spezifische Erfahrungen sich sehr gut mit unserem Know-how ergänzen. Die PrOOo-Box ist ein im Jahre 2004 gegründetes ehrenamtliches Projekt zur Verbreitung von OpenOffice im deutschsprachigen Raum. Wichtigstes Ziel des PrOOo-Box-Projektes ist die Herausgabe einer DVD mit OpenOffice (ursprünglich OpenOffice.org, inzwischen Apache OpenOffice™) und von entsprechenden Zusatzmaterialien. Aktuell unterstützt das PrOOo-Box-Projekt auch den Aufbau der lokalen Community für Apache OpenOffice im deutschsprachigen Raum.
+Der gemeinnützige Verein sidux e.V. wurde im Jahr 2007 in Berlin gegründet. Im Vordergrund der Arbeit stand anfangs die Entwicklung und Verbreitung des gleichnamigen Software-Derivats der GNU/Linux Distribution Debian.	
+Heute engagiert sich der Verein schwerpunktmäßig auf dem Gebiet der Förderung und Verbreitung Freier Software auf nationaler und internationaler Ebene. Dazu sucht er mit allen Einrichtungen und Organisationen, die gleiche und ähnliche Zwecke verfolgen, die Kooperation. Ziel der Arbeit des Vereins ist es, das Verständnis und die Unterstützung für Freie Software in der Öffentlichkeit, Politik und Gesetzgebung maßgeblich zu verbessern.
+
+
+Spendenkonten:
+Bankverbindung:	Sparkasse Aachen
+			sidux e.v.
+			Kto	: 10 72 12 25 65
+			BLZ	: 390 500 00
+			IBAN	: DE92 3905 0000 1072 1225 65
+			BIC	: AACSDE33XXX
+PayPal			: prooo-box@sidux-ev.de		
+
+
+Ansprechpartner
+sidux e. V.
+Kapuzinergraben 16
+c/o Flight Shop GmbH
+52062 Aachen
+E-Mail		: vorstand@sidux-ev.de
+Fon		: +49 (0)241 409739
+Fax		: +49 (0) 241 402197
+URL		: http://www.sidux-ev.org
+
+PrOOo-Box-Projekt
+Detlef Nannen
+Sternstrasse11
+73312 Geislingen
+
+E-Mail		: kontakt@prooo-box.org
+Fon		: +49 (0)174 3561721
